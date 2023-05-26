@@ -16,3 +16,4 @@ scroll.reveal(".hero-text", { delay: 200, origin: "top" });
 scroll.reveal(".hero-img", { delay: 450, origin: "top" });
 scroll.reveal(".icons", { delay: 500, origin: "left" });
 scroll.reveal(".scroll-down", { delay: 500, origin: "right" });
+scroll.reveal(".about-text", { delay: 500, origin: "left" });
